@@ -1,5 +1,0 @@
-snbmdfvsdjfkvsdjfhvksdf
-sdfsdfsd
-fsdno needed file
-change file
-use command diff to look changes in files
